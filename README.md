@@ -1,13 +1,7 @@
 ### Hi there 👋
-<div style="display: flex;">
-  <a href="https://github.com/jeongwwon/github-readme-stats" style="flex-basis: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwwon&layout=compact" height="200px">
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwwon&layout=compact&theme=radical)](https://github.com/jeongwwon/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwwon&show_icons=true&theme=radical)
 
-  <div style="flex-basis: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeongwwon&show_icons=true&theme=radical">
-  </div>
-</div>
 
 
 
