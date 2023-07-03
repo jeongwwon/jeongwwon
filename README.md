@@ -2,7 +2,7 @@
 <a href="https://github.com/jeongwwon/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwwon&layout=compact" height="200px">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+&nbsp;&nbsp;  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwwon&show_icons=true&theme=radical)
 
