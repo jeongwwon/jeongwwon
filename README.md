@@ -1,9 +1,6 @@
 
-[![Top Langs](https://github-readme-stats-six-delta.vercel.app/api/top-langs/?username=jeongwwon&layout=compact)](https://github.com/jeongwwon/github-readme-stats)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![Anurag's GitHub stats](https://github-readme-stats-six-delta.vercel.app/api?username=jeongwwon&show_icons=true)
+[![Top Langs](https://github-readme-stats-pr8i.vercel.app/api/top-langs/?username=jeongwwon&layout=compact)](https://github.com/jeongwwon/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats-pr8i.vercel.app/api?username=jeongwwon&show_icons=true)
 
 
 
