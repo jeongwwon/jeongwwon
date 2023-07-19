@@ -7,10 +7,7 @@
 
 ## Plan of this year
 https://www.inflearn.com/roadmaps/373
-<br>
-
-<img src="https://github.com/jeongwwon/jeongwwon/assets/104192273/b989be52-864d-4c22-aeee-a4fee71ba070.png" width="300" height="250"/>
-  
+<br> 
 <!--
 **jeongwwon/jeongwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
