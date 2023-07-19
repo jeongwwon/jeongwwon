@@ -8,6 +8,8 @@
 ## Plan of this year
 https://www.inflearn.com/roadmaps/373
 <br>
+![1223162-325969-11988026-1](https://github.com/jeongwwon/jeongwwon/assets/104192273/b989be52-864d-4c22-aeee-a4fee71ba070)
+
 
 <!--
 **jeongwwon/jeongwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
