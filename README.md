@@ -8,9 +8,9 @@
 ## Plan of this year
 https://www.inflearn.com/roadmaps/373
 <br>
-![1223162-325969-11988026-1](https://github.com/jeongwwon/jeongwwon/assets/104192273/b989be52-864d-4c22-aeee-a4fee71ba070){: width="300px"}
 
-
+<img src="[https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png](https://github.com/jeongwwon/jeongwwon/assets/104192273/b989be52-864d-4c22-aeee-a4fee71ba070)  width="200" height="400"/>
+  
 <!--
 **jeongwwon/jeongwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
