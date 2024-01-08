@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwwon&layout=compact&theme=swift)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongwwon&show_icons=true&theme=swift)
 
-![Solved.ac operati](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)(https://solved.ac/operati)
+![Solved.ac operati](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)([https://solved.ac/operati](https://solved.ac/profile/operati))
 
 
 
