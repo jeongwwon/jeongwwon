@@ -1,11 +1,13 @@
+# 🌐 Tech Blog
+[Velog Blog - operati123](https://velog.io/@operati123/posts)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwwon&layout=compact&theme=swift)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+---
 
-![Solved.ac operati](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)
+# 🏆 Solved.ac Profile
 
-([https://solved.ac/operati](https://solved.ac/profile/operati))
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)](https://solved.ac/profile/operati)
 
+---
 
 
 <!--
