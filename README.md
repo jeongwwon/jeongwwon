@@ -1,6 +1,4 @@
-## Tech Blog <br>
-[Velog Blog - operati123](https://velog.io/@operati123/posts)
-
+## Tech Blog: [Velog Blog - operati123](https://velog.io/@operati123/posts)
 ---
 
 ## Solved.ac Profile
