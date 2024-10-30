@@ -1,7 +1,9 @@
-## Tech Blog: [Velog Blog - operati123](https://velog.io/@operati123/posts)
+### Tech Blog 
+[Velog Blog - operati123](https://velog.io/@operati123/posts)
+
 ---
 
-## Solved.ac Profile
+### Solved.ac Profile
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)](https://solved.ac/profile/operati)
 
