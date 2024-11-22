@@ -1,6 +1,8 @@
 ### Portfolio
 https://www.notion.so/1462c2ffa7f1809a9facd2791d364ebf?pvs=4
 
+---
+
 ### Tech Blog 
 [Velog Blog - operati123](https://velog.io/@operati123/posts)
 
