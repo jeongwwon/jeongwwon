@@ -8,10 +8,9 @@
 
 ---
 
-### Solved.ac Profile
+### BOJ Profile
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=operati)](https://solved.ac/profile/operati)
-
+[https://www.acmicpc.net/user/operati]
 ---
 
 
