@@ -9,8 +9,7 @@
 ---
 
 ### BOJ Profile
-
-[https://www.acmicpc.net/user/operati]
+https://www.acmicpc.net/user/operati
 ---
 
 
