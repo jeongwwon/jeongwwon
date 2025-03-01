@@ -1,7 +1,3 @@
-Notion: 
-[https://www.notion.so/1462c2ffa7f1809a9facd2791d364ebf?pvs=4](https://cerulean-education-665.notion.site/1462c2ffa7f1809a9facd2791d364ebf)
-
-
 Blog: 
 [Velog Blog - operati123](https://velog.io/@operati123/posts)
 
