@@ -5,11 +5,6 @@ Blog:
 [Velog Blog - operati123](https://velog.io/@operati123/posts)
 
 
-BOJ Profile: 
-https://www.acmicpc.net/user/operati
-
-
-
 
 <!--
 **jeongwwon/jeongwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
