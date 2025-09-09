@@ -1,5 +1,5 @@
 CV:
-https://earthy-chalk-721.notion.site/Lee-Jeongwon-1aa176858bf380cca9cce9625a5ad1e4
+[https://earthy-chalk-721.notion.site/Lee-Jeongwon-1aa176858bf380cca9cce9625a5ad1e4](https://earthy-chalk-721.notion.site/1d9176858bf3805db896e3f4e98996af)
 
 Blog: 
 [Velog Blog - operati123](https://velog.io/@operati123/posts)
