@@ -1,4 +1,4 @@
-CV:https://earthy-chalk-721.notion.site/26c176858bf38047b1bcc505df2ef703
+CV:[https://earthy-chalk-721.notion.site/26c176858bf38047b1bcc505df2ef703](https://earthy-chalk-721.notion.site/Lee-Jeongwon-1aa176858bf380cca9cce9625a5ad1e4?pvs=73)
 
 Blog: 
 [Velog Blog - operati123](https://velog.io/@operati123/posts)
